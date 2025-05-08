@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+python-dotenv
+torch==2.6.0 
+transformers>=4.30.0 
+accelerate>=0.20.0 
+datasets 
+peft>=0.4.0 
+bitsandbytes>=0.40.0 
+trl
